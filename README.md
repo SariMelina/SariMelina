@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sara Melina Reyes González
 
-<!--
-**SariMelina/SariMelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Software Developer**  
+I specialize in backend and frontend development using technologies like **NodeJS**, **VueJS**, **PostgreSQL**, and  **MySQL**. I’m passionate about building scalable and efficient solutions and always look for ways to improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** NodeJS, Express.js, PostgreSQL, MySQL
+- **Frontend:** VueJS, HTML, CSS
+- **Other Tools:** Git, Docker, Postman
+
+## 📫 How to Reach Me
+
+- Email: [sm.reyes.glez@gmail.com](mailto:sm.reyes.glez@gmail.com)
+- LinkedIn: [linkedin.com/in/sarimelina](https://www.linkedin.com/in/sarimelina)
